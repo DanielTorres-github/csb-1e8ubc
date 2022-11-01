@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://danieltorres-github.github.io/csb-1e8ubc/static/css/main.ed5aa7ec.chunk.css",
+    "main.js": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/main.af178887.chunk.js",
+    "main.js.map": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/main.af178887.chunk.js.map",
+    "runtime-main.js": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/runtime-main.3ca2ca0d.js",
+    "runtime-main.js.map": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/runtime-main.3ca2ca0d.js.map",
+    "static/js/2.b27d5077.chunk.js": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/2.b27d5077.chunk.js",
+    "static/js/2.b27d5077.chunk.js.map": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/2.b27d5077.chunk.js.map",
+    "index.html": "https://danieltorres-github.github.io/csb-1e8ubc/index.html",
+    "static/css/main.ed5aa7ec.chunk.css.map": "https://danieltorres-github.github.io/csb-1e8ubc/static/css/main.ed5aa7ec.chunk.css.map",
+    "static/js/2.b27d5077.chunk.js.LICENSE.txt": "https://danieltorres-github.github.io/csb-1e8ubc/static/js/2.b27d5077.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca2ca0d.js",
+    "static/js/2.b27d5077.chunk.js",
+    "static/css/main.ed5aa7ec.chunk.css",
+    "static/js/main.af178887.chunk.js"
+  ]
+}
